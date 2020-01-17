@@ -1,6 +1,6 @@
 {
 	"name": "Azure Functions & Java 8",
-  	"image": "hendersonvso.azurecr.io/functions/azure-functions-java-8",
+  	"image": "mattchenderson/azure-functions-java-8",
 	"appPort": 7071,
 
 	// Use 'settings' to set *default* container specific settings.json values on container create. 
